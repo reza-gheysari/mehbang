@@ -59,12 +59,13 @@ body {
     width: max-content;
     font-size: 13px;
 }
+
 .tv-button {
     background-color: white;
     padding: 5px 10px;
     display: inline;
     border-radius: 50px;
-    border: 1px solid black;
+    border: 0.5px solid black;
 }
 .button1 {
     font-size: 12px;
