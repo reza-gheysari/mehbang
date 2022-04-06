@@ -40,7 +40,7 @@ body {
     background-color: #58BA47;
     height: 55px;
     width: 100%;
-    border-bottom: 1px solid #8B8B8B;
+    border-bottom: 1px solid white;
     overflow-x: scroll;
     overflow-y: hidden;
     overflow-wrap: normal;
