@@ -84,3 +84,10 @@ body {
     font-size: 22px;
     font-family: iranExtraBold;
 }
+p {
+    direction: rtl;
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    font-family: iranBold;
+}
