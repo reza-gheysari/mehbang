@@ -59,7 +59,9 @@ body {
     width: max-content;
     font-size: 13px;
 }
-
+.nt1 {
+    color: white;
+}
 .tv-button {
     background-color: white;
     padding: 5px 10px;
